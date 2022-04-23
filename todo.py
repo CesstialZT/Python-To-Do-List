@@ -84,5 +84,5 @@ delTask_btn = Button(
 )
 delTask_btn.pack(fill=BOTH, expand=True, side=LEFT)
 
-
+# Wait for X
 ws.mainloop()
